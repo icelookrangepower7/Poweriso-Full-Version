@@ -246,4 +246,4 @@ This repository serves as the official landing page for PowerISO. The software i
 **Get the most recent version of PowerISO today!**
 
 ---
-**Last updated:** 2026-10-13 21:06:27 UTC
+**Last updated:** 2026-10-14 01:01:09 UTC
